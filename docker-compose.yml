@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: test_db_new
+    environment:
+      POSTGRES_PASSWORD: 'password123'
+    ports:
+      - "5433:5432"
+    
