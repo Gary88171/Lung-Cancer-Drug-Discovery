@@ -14,7 +14,7 @@ Entrez.api_key = os.getenv("API_KEY")
 
 def search_lung_cancer_genes():
     print("searching NCBI Gene Database")
-    handle = Entrez.esearch(db="gene", term="Non-smll cell lung cancer", retmax=10)
+    handle = Entrez.esearch(db="gene", term="Non-smll cell lung cancer", retmax=50)
     record = Entrez.read(handle)
     handle.close()
 
