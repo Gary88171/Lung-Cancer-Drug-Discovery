@@ -1,5 +1,0 @@
-pgdata/
-__pycache__/
-.env
-.vscode/
-*.csv
