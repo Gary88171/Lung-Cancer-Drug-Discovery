@@ -11,3 +11,4 @@ Daily Log
 15/4/2026: Infrastructure and Connectivity, resolved library mounting conflicts caused by the desktop OneDrive path
 16/4/2026: Connect with NCBI to capture lung cancer gene targets and match corresponding drug molecules from PubChem
 17/4/2026: Upgrade the underlying database to SQLAlchemy for more stable Pandas integration, implementing Lipinski's Rule of Five screening to calculate molecular weight (MW) and lipid solubility (LogP)
+18/4/2026: Success grad from ChEMBL API has IC50 data of experimental values. Implement ON CONFLICT DO NOTHING logic to avoid ID conflicts caused by repeated capture. 
