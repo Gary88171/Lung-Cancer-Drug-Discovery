@@ -1,0 +1,932 @@
+2026-04-20 22:59:35,950 [INFO] Susscufer connecting to PostgreSQL Database
+2026-04-20 22:59:35,950 [INFO] Start automating processing target: EGFR
+2026-04-20 22:59:35,951 [INFO] Geting Active data (Conditions: standard_value__lt=1000 of EGFR...)
+2026-04-21 02:01:22,423 [INFO] Susscufer connecting to PostgreSQL Database
+2026-04-21 02:01:22,423 [INFO] Start automating processing target: EGFR
+2026-04-21 02:01:22,423 [INFO] Geting Active data (Conditions: standard_value__lt=1000 of EGFR...)
+2026-04-21 02:01:22,427 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:01:22,427 [INFO] resetting chunk
+2026-04-21 02:01:29,333 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:29,333 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:01:29,334 [INFO] From cache: False
+2026-04-21 02:01:31,160 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:31,160 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:01:31,160 [INFO] From cache: False
+2026-04-21 02:01:32,856 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:32,856 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:01:32,856 [INFO] From cache: False
+2026-04-21 02:01:34,550 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:34,550 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:01:34,550 [INFO] From cache: False
+2026-04-21 02:01:36,149 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:36,150 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:01:36,150 [INFO] From cache: False
+2026-04-21 02:01:37,868 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:37,869 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:01:37,869 [INFO] From cache: False
+2026-04-21 02:01:39,613 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:39,613 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:01:39,613 [INFO] From cache: False
+2026-04-21 02:01:41,256 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:41,256 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:01:41,256 [INFO] From cache: False
+2026-04-21 02:01:43,803 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:43,803 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:01:43,804 [INFO] From cache: False
+2026-04-21 02:01:45,409 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:45,409 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:01:45,409 [INFO] From cache: False
+2026-04-21 02:01:47,197 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:47,197 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:01:47,197 [INFO] From cache: False
+2026-04-21 02:01:48,966 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:48,967 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:01:48,967 [INFO] From cache: False
+2026-04-21 02:01:50,974 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:50,974 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:01:50,974 [INFO] From cache: False
+2026-04-21 02:01:52,690 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:52,690 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:01:52,690 [INFO] From cache: False
+2026-04-21 02:01:54,357 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:54,357 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:01:54,357 [INFO] From cache: False
+2026-04-21 02:01:56,945 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:01:56,945 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:01:56,945 [INFO] From cache: False
+2026-04-21 02:02:01,407 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:01,408 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:02:01,408 [INFO] From cache: False
+2026-04-21 02:02:02,977 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:02,977 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:02:02,977 [INFO] From cache: False
+2026-04-21 02:02:04,766 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:04,767 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:02:04,767 [INFO] From cache: False
+2026-04-21 02:02:06,439 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:06,439 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:02:06,439 [INFO] From cache: False
+2026-04-21 02:02:08,504 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:08,504 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:02:08,504 [INFO] From cache: False
+2026-04-21 02:02:10,548 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:10,548 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:02:10,548 [INFO] From cache: False
+2026-04-21 02:02:12,456 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:12,456 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:02:12,456 [INFO] From cache: False
+2026-04-21 02:02:14,245 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:14,245 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:02:14,245 [INFO] From cache: False
+2026-04-21 02:02:15,970 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:15,970 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:02:15,971 [INFO] From cache: False
+2026-04-21 02:02:18,815 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:18,815 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:02:18,815 [INFO] From cache: False
+2026-04-21 02:02:20,633 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:20,633 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:02:20,633 [INFO] From cache: False
+2026-04-21 02:02:22,800 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:22,800 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:02:22,800 [INFO] From cache: False
+2026-04-21 02:02:24,482 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:24,482 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:02:24,482 [INFO] From cache: False
+2026-04-21 02:02:26,113 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:26,113 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:02:26,113 [INFO] From cache: False
+2026-04-21 02:02:27,921 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:27,921 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:02:27,921 [INFO] From cache: False
+2026-04-21 02:02:29,588 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:29,588 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:02:29,588 [INFO] From cache: False
+2026-04-21 02:02:34,453 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:34,453 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:02:34,453 [INFO] From cache: False
+2026-04-21 02:02:36,154 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:36,154 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:02:36,154 [INFO] From cache: False
+2026-04-21 02:02:37,898 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:37,898 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:02:37,898 [INFO] From cache: False
+2026-04-21 02:02:39,664 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:39,664 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:02:39,664 [INFO] From cache: False
+2026-04-21 02:02:41,245 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:41,245 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:02:41,245 [INFO] From cache: False
+2026-04-21 02:02:42,991 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:42,992 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:02:42,992 [INFO] From cache: False
+2026-04-21 02:02:44,594 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:44,594 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:02:44,594 [INFO] From cache: False
+2026-04-21 02:02:46,175 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:46,175 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:02:46,175 [INFO] From cache: False
+2026-04-21 02:02:47,889 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:47,889 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:02:47,890 [INFO] From cache: False
+2026-04-21 02:02:49,589 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:49,589 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:02:49,589 [INFO] From cache: False
+2026-04-21 02:02:51,441 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:51,442 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:02:51,442 [INFO] From cache: False
+2026-04-21 02:02:53,248 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:53,248 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:02:53,248 [INFO] From cache: False
+2026-04-21 02:02:54,972 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:54,973 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:02:54,973 [INFO] From cache: False
+2026-04-21 02:02:56,669 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:56,669 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:02:56,669 [INFO] From cache: False
+2026-04-21 02:02:58,351 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:02:58,351 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:02:58,351 [INFO] From cache: False
+2026-04-21 02:03:00,163 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:00,163 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:03:00,163 [INFO] From cache: False
+2026-04-21 02:03:01,752 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:01,753 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:03:01,753 [INFO] From cache: False
+2026-04-21 02:03:07,956 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:07,956 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:03:07,956 [INFO] From cache: False
+2026-04-21 02:03:10,065 [INFO]  EGFR Active process completed, new addition 636.
+2026-04-21 02:03:10,066 [INFO] Geting Inactive data (Conditions: standard_value__gt=10000 of EGFR...)
+2026-04-21 02:03:10,069 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:03:10,069 [INFO] resetting chunk
+2026-04-21 02:03:15,313 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:15,314 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:03:15,314 [INFO] From cache: False
+2026-04-21 02:03:16,930 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:16,930 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:03:16,931 [INFO] From cache: False
+2026-04-21 02:03:19,092 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:19,093 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:03:19,093 [INFO] From cache: False
+2026-04-21 02:03:20,849 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:20,849 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:03:20,849 [INFO] From cache: False
+2026-04-21 02:03:22,476 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:22,476 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:03:22,476 [INFO] From cache: False
+2026-04-21 02:03:24,139 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:24,139 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:03:24,139 [INFO] From cache: False
+2026-04-21 02:03:26,793 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:26,793 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:03:26,793 [INFO] From cache: False
+2026-04-21 02:03:28,377 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:28,377 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:03:28,377 [INFO] From cache: False
+2026-04-21 02:03:29,936 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:29,936 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:03:29,936 [INFO] From cache: False
+2026-04-21 02:03:32,482 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:32,482 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:03:32,482 [INFO] From cache: False
+2026-04-21 02:03:34,217 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:34,217 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:03:34,217 [INFO] From cache: False
+2026-04-21 02:03:38,551 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:38,551 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:03:38,551 [INFO] From cache: False
+2026-04-21 02:03:40,276 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:40,276 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:03:40,277 [INFO] From cache: False
+2026-04-21 02:03:42,052 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:42,052 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:03:42,052 [INFO] From cache: False
+2026-04-21 02:03:43,698 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:43,698 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:03:43,698 [INFO] From cache: False
+2026-04-21 02:03:45,413 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:45,413 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:03:45,413 [INFO] From cache: False
+2026-04-21 02:03:47,280 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:47,280 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:03:47,280 [INFO] From cache: False
+2026-04-21 02:03:49,059 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:49,060 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:03:49,060 [INFO] From cache: False
+2026-04-21 02:03:51,169 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:51,169 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:03:51,169 [INFO] From cache: False
+2026-04-21 02:03:52,948 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:52,948 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:03:52,948 [INFO] From cache: False
+2026-04-21 02:03:54,767 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:54,767 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:03:54,767 [INFO] From cache: False
+2026-04-21 02:03:56,533 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:56,534 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:03:56,534 [INFO] From cache: False
+2026-04-21 02:03:58,349 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:03:58,350 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:03:58,350 [INFO] From cache: False
+2026-04-21 02:04:00,091 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:00,092 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:04:00,092 [INFO] From cache: False
+2026-04-21 02:04:01,880 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:01,880 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:04:01,881 [INFO] From cache: False
+2026-04-21 02:04:03,467 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:03,467 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:04:03,467 [INFO] From cache: False
+2026-04-21 02:04:05,208 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:05,208 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:04:05,208 [INFO] From cache: False
+2026-04-21 02:04:06,871 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:06,871 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:04:06,871 [INFO] From cache: False
+2026-04-21 02:04:11,365 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:11,365 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:04:11,365 [INFO] From cache: False
+2026-04-21 02:04:13,797 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:13,797 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:04:13,797 [INFO] From cache: False
+2026-04-21 02:04:15,525 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:15,525 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:04:15,525 [INFO] From cache: False
+2026-04-21 02:04:17,775 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:17,775 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:04:17,775 [INFO] From cache: False
+2026-04-21 02:04:20,308 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:20,309 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:04:20,309 [INFO] From cache: False
+2026-04-21 02:04:21,906 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:21,906 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:04:21,906 [INFO] From cache: False
+2026-04-21 02:04:23,544 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:23,544 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:04:23,544 [INFO] From cache: False
+2026-04-21 02:04:25,273 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:25,273 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:04:25,273 [INFO] From cache: False
+2026-04-21 02:04:27,075 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:27,075 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:04:27,075 [INFO] From cache: False
+2026-04-21 02:04:28,795 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:28,796 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:04:28,796 [INFO] From cache: False
+2026-04-21 02:04:30,476 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:30,476 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:04:30,476 [INFO] From cache: False
+2026-04-21 02:04:32,218 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:32,218 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:04:32,218 [INFO] From cache: False
+2026-04-21 02:04:33,836 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:33,836 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:04:33,836 [INFO] From cache: False
+2026-04-21 02:04:35,804 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:35,804 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:04:35,805 [INFO] From cache: False
+2026-04-21 02:04:38,034 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:38,035 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:04:38,035 [INFO] From cache: False
+2026-04-21 02:04:39,615 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:39,615 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:04:39,615 [INFO] From cache: False
+2026-04-21 02:04:44,102 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:44,103 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:04:44,103 [INFO] From cache: False
+2026-04-21 02:04:45,789 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:45,789 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:04:45,789 [INFO] From cache: False
+2026-04-21 02:04:47,504 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:47,504 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:04:47,504 [INFO] From cache: False
+2026-04-21 02:04:49,202 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:49,202 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:04:49,202 [INFO] From cache: False
+2026-04-21 02:04:51,094 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:51,094 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:04:51,094 [INFO] From cache: False
+2026-04-21 02:04:55,135 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:55,135 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'EGFR'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:04:55,135 [INFO] From cache: False
+2026-04-21 02:04:57,246 [INFO]  EGFR Inactive process completed, new addition 667.
+2026-04-21 02:04:57,246 [INFO] Start automating processing target: KRAS
+2026-04-21 02:04:57,246 [INFO] Geting Active data (Conditions: standard_value__lt=1000 of KRAS...)
+2026-04-21 02:04:57,250 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:04:57,250 [INFO] resetting chunk
+2026-04-21 02:04:59,011 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:04:59,011 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:04:59,011 [INFO] From cache: False
+2026-04-21 02:05:00,686 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:00,686 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:05:00,686 [INFO] From cache: False
+2026-04-21 02:05:02,277 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:02,277 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:05:02,277 [INFO] From cache: False
+2026-04-21 02:05:04,161 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:04,162 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:05:04,162 [INFO] From cache: False
+2026-04-21 02:05:05,923 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:05,923 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:05:05,923 [INFO] From cache: False
+2026-04-21 02:05:07,690 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:07,691 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:05:07,691 [INFO] From cache: False
+2026-04-21 02:05:09,459 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:09,460 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:05:09,460 [INFO] From cache: False
+2026-04-21 02:05:11,981 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:11,981 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:05:11,981 [INFO] From cache: False
+2026-04-21 02:05:09,612 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:09,612 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:05:09,612 [INFO] From cache: False
+2026-04-21 02:05:18,177 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:18,177 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:05:18,177 [INFO] From cache: False
+2026-04-21 02:05:19,883 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:19,884 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:05:19,884 [INFO] From cache: False
+2026-04-21 02:05:21,781 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:21,781 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:05:21,781 [INFO] From cache: False
+2026-04-21 02:05:23,413 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:23,413 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:05:23,413 [INFO] From cache: False
+2026-04-21 02:05:25,040 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:25,040 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:05:25,040 [INFO] From cache: False
+2026-04-21 02:05:26,676 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:26,676 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:05:26,676 [INFO] From cache: False
+2026-04-21 02:05:28,507 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:28,508 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:05:28,508 [INFO] From cache: False
+2026-04-21 02:05:30,139 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:30,139 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:05:30,139 [INFO] From cache: False
+2026-04-21 02:05:31,797 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:31,797 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:05:31,797 [INFO] From cache: False
+2026-04-21 02:05:34,121 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:34,121 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:05:34,121 [INFO] From cache: False
+2026-04-21 02:05:36,144 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:36,144 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:05:36,144 [INFO] From cache: False
+2026-04-21 02:05:37,755 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:37,755 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:05:37,755 [INFO] From cache: False
+2026-04-21 02:05:39,543 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:39,543 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:05:39,543 [INFO] From cache: False
+2026-04-21 02:05:41,231 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:41,232 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:05:41,232 [INFO] From cache: False
+2026-04-21 02:05:43,002 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:43,002 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:05:43,002 [INFO] From cache: False
+2026-04-21 02:05:44,987 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:44,987 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:05:44,988 [INFO] From cache: False
+2026-04-21 02:05:49,460 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:49,460 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:05:49,460 [INFO] From cache: False
+2026-04-21 02:05:51,162 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:51,162 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:05:51,162 [INFO] From cache: False
+2026-04-21 02:05:53,000 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:53,000 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:05:53,000 [INFO] From cache: False
+2026-04-21 02:05:54,784 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:54,785 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:05:54,785 [INFO] From cache: False
+2026-04-21 02:05:56,416 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:56,416 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:05:56,416 [INFO] From cache: False
+2026-04-21 02:05:59,009 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:05:59,010 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:05:59,010 [INFO] From cache: False
+2026-04-21 02:06:00,677 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:00,677 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:06:00,677 [INFO] From cache: False
+2026-04-21 02:06:02,528 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:02,528 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:06:02,528 [INFO] From cache: False
+2026-04-21 02:06:05,263 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:05,263 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:06:05,263 [INFO] From cache: False
+2026-04-21 02:06:07,021 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:07,021 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:06:07,021 [INFO] From cache: False
+2026-04-21 02:06:09,097 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:09,097 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:06:09,097 [INFO] From cache: False
+2026-04-21 02:06:11,032 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:11,032 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:06:11,032 [INFO] From cache: False
+2026-04-21 02:06:12,691 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:12,691 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:06:12,691 [INFO] From cache: False
+2026-04-21 02:06:14,314 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:14,314 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:06:14,314 [INFO] From cache: False
+2026-04-21 02:06:16,767 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:16,767 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:06:16,767 [INFO] From cache: False
+2026-04-21 02:06:18,414 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:18,414 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:06:18,414 [INFO] From cache: False
+2026-04-21 02:06:22,961 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:22,961 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:06:22,961 [INFO] From cache: False
+2026-04-21 02:06:24,927 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:24,927 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:06:24,927 [INFO] From cache: False
+2026-04-21 02:06:26,715 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:26,716 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:06:26,716 [INFO] From cache: False
+2026-04-21 02:06:28,551 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:28,551 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:06:28,551 [INFO] From cache: False
+2026-04-21 02:06:30,322 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:30,322 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:06:30,322 [INFO] From cache: False
+2026-04-21 02:06:32,197 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:32,197 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:06:32,197 [INFO] From cache: False
+2026-04-21 02:06:34,015 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:34,015 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:06:34,015 [INFO] From cache: False
+2026-04-21 02:06:35,729 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:35,729 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:06:35,729 [INFO] From cache: False
+2026-04-21 02:06:37,832 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:37,832 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:06:37,832 [INFO] From cache: False
+2026-04-21 02:06:39,789 [INFO]  KRAS Active process completed, new addition 0.
+2026-04-21 02:06:39,789 [INFO] Geting Inactive data (Conditions: standard_value__gt=10000 of KRAS...)
+2026-04-21 02:06:39,792 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:06:39,792 [INFO] resetting chunk
+2026-04-21 02:06:41,526 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:41,526 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:06:41,526 [INFO] From cache: False
+2026-04-21 02:06:44,082 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:44,082 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:06:44,082 [INFO] From cache: False
+2026-04-21 02:06:45,869 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:45,869 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:06:45,869 [INFO] From cache: False
+2026-04-21 02:06:47,567 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:47,568 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:06:47,568 [INFO] From cache: False
+2026-04-21 02:06:49,287 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:49,287 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:06:49,287 [INFO] From cache: False
+2026-04-21 02:06:51,018 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:51,019 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:06:51,019 [INFO] From cache: False
+2026-04-21 02:06:55,334 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:55,334 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:06:55,334 [INFO] From cache: False
+2026-04-21 02:06:57,491 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:57,491 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:06:57,491 [INFO] From cache: False
+2026-04-21 02:06:59,206 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:06:59,207 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:06:59,207 [INFO] From cache: False
+2026-04-21 02:07:00,848 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:00,848 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:07:00,848 [INFO] From cache: False
+2026-04-21 02:07:02,473 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:02,473 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:07:02,473 [INFO] From cache: False
+2026-04-21 02:07:04,266 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:04,266 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:07:04,266 [INFO] From cache: False
+2026-04-21 02:07:06,246 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:06,246 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:07:06,246 [INFO] From cache: False
+2026-04-21 02:07:07,965 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:07,965 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:07:07,965 [INFO] From cache: False
+2026-04-21 02:07:10,326 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:10,326 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:07:10,326 [INFO] From cache: False
+2026-04-21 02:07:12,053 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:12,053 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:07:12,053 [INFO] From cache: False
+2026-04-21 02:07:13,868 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:13,868 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:07:13,868 [INFO] From cache: False
+2026-04-21 02:07:15,543 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:15,543 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:07:15,543 [INFO] From cache: False
+2026-04-21 02:07:17,206 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:17,206 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:07:17,206 [INFO] From cache: False
+2026-04-21 02:07:19,642 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:19,642 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:07:19,642 [INFO] From cache: False
+2026-04-21 02:07:21,286 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:21,286 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:07:21,286 [INFO] From cache: False
+2026-04-21 02:07:22,967 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:22,967 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:07:22,967 [INFO] From cache: False
+2026-04-21 02:07:28,011 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:28,011 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:07:28,012 [INFO] From cache: False
+2026-04-21 02:07:29,709 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:29,710 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:07:29,710 [INFO] From cache: False
+2026-04-21 02:07:31,589 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:31,589 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:07:31,589 [INFO] From cache: False
+2026-04-21 02:07:33,187 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:33,187 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:07:33,187 [INFO] From cache: False
+2026-04-21 02:07:35,211 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:35,212 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:07:35,212 [INFO] From cache: False
+2026-04-21 02:07:36,766 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:36,766 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:07:36,766 [INFO] From cache: False
+2026-04-21 02:07:38,408 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:38,408 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:07:38,408 [INFO] From cache: False
+2026-04-21 02:07:40,916 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:40,917 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:07:40,917 [INFO] From cache: False
+2026-04-21 02:07:42,603 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:42,603 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:07:42,603 [INFO] From cache: False
+2026-04-21 02:07:44,756 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:44,756 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:07:44,756 [INFO] From cache: False
+2026-04-21 02:07:46,449 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:46,449 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:07:46,449 [INFO] From cache: False
+2026-04-21 02:07:48,346 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:48,346 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:07:48,346 [INFO] From cache: False
+2026-04-21 02:07:50,405 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:50,405 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:07:50,405 [INFO] From cache: False
+2026-04-21 02:07:52,400 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:52,400 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:07:52,400 [INFO] From cache: False
+2026-04-21 02:07:54,021 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:54,021 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:07:54,021 [INFO] From cache: False
+2026-04-21 02:07:55,949 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:07:55,949 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:07:55,949 [INFO] From cache: False
+2026-04-21 02:08:00,376 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:00,377 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:08:00,377 [INFO] From cache: False
+2026-04-21 02:08:01,977 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:01,977 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:08:01,977 [INFO] From cache: False
+2026-04-21 02:08:03,581 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:03,581 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:08:03,581 [INFO] From cache: False
+2026-04-21 02:08:05,201 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:05,201 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:08:05,201 [INFO] From cache: False
+2026-04-21 02:08:07,199 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:07,199 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:08:07,200 [INFO] From cache: False
+2026-04-21 02:08:08,932 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:08,932 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:08:08,932 [INFO] From cache: False
+2026-04-21 02:08:10,586 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:10,586 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:08:10,586 [INFO] From cache: False
+2026-04-21 02:08:12,504 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:12,504 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:08:12,504 [INFO] From cache: False
+2026-04-21 02:08:14,265 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:14,265 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:08:14,265 [INFO] From cache: False
+2026-04-21 02:08:16,031 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:16,031 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:08:16,031 [INFO] From cache: False
+2026-04-21 02:08:17,803 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:17,803 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:08:17,803 [INFO] From cache: False
+2026-04-21 02:08:19,685 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:19,685 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'KRAS'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:08:19,685 [INFO] From cache: False
+2026-04-21 02:08:21,971 [INFO]  KRAS Inactive process completed, new addition 0.
+2026-04-21 02:08:21,971 [INFO] Start automating processing target: ERBB2
+2026-04-21 02:08:21,972 [INFO] Geting Active data (Conditions: standard_value__lt=1000 of ERBB2...)
+2026-04-21 02:08:21,975 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:08:21,975 [INFO] resetting chunk
+2026-04-21 02:08:23,741 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:23,741 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:08:23,741 [INFO] From cache: False
+2026-04-21 02:08:25,351 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:25,352 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:08:25,352 [INFO] From cache: False
+2026-04-21 02:08:26,954 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:26,954 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:08:26,954 [INFO] From cache: False
+2026-04-21 02:08:28,748 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:28,748 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:08:28,748 [INFO] From cache: False
+2026-04-21 02:08:33,441 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:33,441 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:08:33,441 [INFO] From cache: False
+2026-04-21 02:08:35,051 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:35,052 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:08:35,052 [INFO] From cache: False
+2026-04-21 02:08:36,900 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:36,900 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:08:36,900 [INFO] From cache: False
+2026-04-21 02:08:38,599 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:38,599 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:08:38,600 [INFO] From cache: False
+2026-04-21 02:08:40,227 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:40,227 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:08:40,227 [INFO] From cache: False
+2026-04-21 02:08:41,910 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:41,910 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:08:41,910 [INFO] From cache: False
+2026-04-21 02:08:43,781 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:43,781 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:08:43,781 [INFO] From cache: False
+2026-04-21 02:08:45,389 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:45,389 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:08:45,389 [INFO] From cache: False
+2026-04-21 02:08:47,073 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:47,073 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:08:47,073 [INFO] From cache: False
+2026-04-21 02:08:48,867 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:48,867 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:08:48,868 [INFO] From cache: False
+2026-04-21 02:08:50,540 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:50,540 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:08:50,540 [INFO] From cache: False
+2026-04-21 02:08:52,319 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:52,319 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:08:52,320 [INFO] From cache: False
+2026-04-21 02:08:54,237 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:54,238 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:08:54,238 [INFO] From cache: False
+2026-04-21 02:08:55,855 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:55,855 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:08:55,855 [INFO] From cache: False
+2026-04-21 02:08:57,540 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:57,540 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:08:57,540 [INFO] From cache: False
+2026-04-21 02:08:59,137 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:08:59,138 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:08:59,138 [INFO] From cache: False
+2026-04-21 02:09:01,025 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:01,025 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:09:01,025 [INFO] From cache: False
+2026-04-21 02:09:02,783 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:02,783 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:09:02,783 [INFO] From cache: False
+2026-04-21 02:09:07,108 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:07,108 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:09:07,108 [INFO] From cache: False
+2026-04-21 02:09:09,073 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:09,073 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:09:09,073 [INFO] From cache: False
+2026-04-21 02:09:10,817 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:10,817 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:09:10,817 [INFO] From cache: False
+2026-04-21 02:09:12,448 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:12,449 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:09:12,449 [INFO] From cache: False
+2026-04-21 02:09:14,443 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:14,443 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:09:14,444 [INFO] From cache: False
+2026-04-21 02:09:16,242 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:16,242 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:09:16,242 [INFO] From cache: False
+2026-04-21 02:09:17,921 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:17,921 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:09:17,921 [INFO] From cache: False
+2026-04-21 02:09:19,532 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:19,532 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:09:19,532 [INFO] From cache: False
+2026-04-21 02:09:21,476 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:21,476 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:09:21,476 [INFO] From cache: False
+2026-04-21 02:09:23,185 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:23,185 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:09:23,185 [INFO] From cache: False
+2026-04-21 02:09:24,920 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:24,920 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:09:24,920 [INFO] From cache: False
+2026-04-21 02:09:27,032 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:27,032 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:09:27,032 [INFO] From cache: False
+2026-04-21 02:09:29,285 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:29,285 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:09:29,285 [INFO] From cache: False
+2026-04-21 02:09:31,229 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:31,229 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:09:31,229 [INFO] From cache: False
+2026-04-21 02:09:32,957 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:32,957 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:09:32,957 [INFO] From cache: False
+2026-04-21 02:09:34,633 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:34,633 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:09:34,633 [INFO] From cache: False
+2026-04-21 02:09:38,949 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:38,950 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:09:38,950 [INFO] From cache: False
+2026-04-21 02:09:41,034 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:41,034 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:09:41,035 [INFO] From cache: False
+2026-04-21 02:09:43,123 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:43,123 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:09:43,123 [INFO] From cache: False
+2026-04-21 02:09:44,931 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:44,931 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:09:44,931 [INFO] From cache: False
+2026-04-21 02:09:46,755 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:46,755 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:09:46,756 [INFO] From cache: False
+2026-04-21 02:09:48,352 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:48,352 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:09:48,352 [INFO] From cache: False
+2026-04-21 02:09:50,017 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:50,017 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:09:50,017 [INFO] From cache: False
+2026-04-21 02:09:51,670 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:51,670 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:09:51,670 [INFO] From cache: False
+2026-04-21 02:09:53,777 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:53,777 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:09:53,777 [INFO] From cache: False
+2026-04-21 02:09:55,502 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:55,502 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:09:55,502 [INFO] From cache: False
+2026-04-21 02:09:57,455 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:57,455 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:09:57,455 [INFO] From cache: False
+2026-04-21 02:09:59,320 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:09:59,320 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__lt', 1000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:09:59,320 [INFO] From cache: False
+2026-04-21 02:10:01,839 [INFO]  ERBB2 Active process completed, new addition 0.
+2026-04-21 02:10:01,839 [INFO] Geting Inactive data (Conditions: standard_value__gt=10000 of ERBB2...)
+2026-04-21 02:10:01,842 [INFO] __getitem__, self.limits = (0, 1000), k = slice(None, 1000, None)
+2026-04-21 02:10:01,842 [INFO] resetting chunk
+2026-04-21 02:10:03,539 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:03,540 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 0)]
+2026-04-21 02:10:03,540 [INFO] From cache: False
+2026-04-21 02:10:05,762 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:05,762 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 20)]
+2026-04-21 02:10:05,762 [INFO] From cache: False
+2026-04-21 02:10:07,466 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:07,467 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 40)]
+2026-04-21 02:10:07,467 [INFO] From cache: False
+2026-04-21 02:10:12,166 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:12,166 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 60)]
+2026-04-21 02:10:12,166 [INFO] From cache: False
+2026-04-21 02:10:13,772 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:13,772 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 80)]
+2026-04-21 02:10:13,772 [INFO] From cache: False
+2026-04-21 02:10:15,633 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:15,633 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 100)]
+2026-04-21 02:10:15,633 [INFO] From cache: False
+2026-04-21 02:10:17,220 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:17,220 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 120)]
+2026-04-21 02:10:17,220 [INFO] From cache: False
+2026-04-21 02:10:18,810 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:18,810 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 140)]
+2026-04-21 02:10:18,810 [INFO] From cache: False
+2026-04-21 02:10:20,413 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:20,413 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 160)]
+2026-04-21 02:10:20,413 [INFO] From cache: False
+2026-04-21 02:10:22,119 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:22,120 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 180)]
+2026-04-21 02:10:22,120 [INFO] From cache: False
+2026-04-21 02:10:25,080 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:25,080 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 200)]
+2026-04-21 02:10:25,080 [INFO] From cache: False
+2026-04-21 02:10:26,906 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:26,906 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 220)]
+2026-04-21 02:10:26,906 [INFO] From cache: False
+2026-04-21 02:10:28,505 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:28,505 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 240)]
+2026-04-21 02:10:28,505 [INFO] From cache: False
+2026-04-21 02:10:30,531 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:30,531 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 260)]
+2026-04-21 02:10:30,531 [INFO] From cache: False
+2026-04-21 02:10:32,132 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:32,132 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 280)]
+2026-04-21 02:10:32,132 [INFO] From cache: False
+2026-04-21 02:10:34,206 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:34,206 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 300)]
+2026-04-21 02:10:34,206 [INFO] From cache: False
+2026-04-21 02:10:36,100 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:36,100 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 320)]
+2026-04-21 02:10:36,100 [INFO] From cache: False
+2026-04-21 02:10:37,815 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:37,816 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 340)]
+2026-04-21 02:10:37,816 [INFO] From cache: False
+2026-04-21 02:10:39,535 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:39,535 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 360)]
+2026-04-21 02:10:39,535 [INFO] From cache: False
+2026-04-21 02:10:37,030 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:37,030 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 380)]
+2026-04-21 02:10:37,030 [INFO] From cache: False
+2026-04-21 02:10:45,636 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:45,636 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 400)]
+2026-04-21 02:10:45,636 [INFO] From cache: False
+2026-04-21 02:10:47,751 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:47,751 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 420)]
+2026-04-21 02:10:47,751 [INFO] From cache: False
+2026-04-21 02:10:49,542 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:49,543 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 440)]
+2026-04-21 02:10:49,543 [INFO] From cache: False
+2026-04-21 02:10:51,139 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:51,139 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 460)]
+2026-04-21 02:10:51,139 [INFO] From cache: False
+2026-04-21 02:10:52,903 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:52,903 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 480)]
+2026-04-21 02:10:52,903 [INFO] From cache: False
+2026-04-21 02:10:54,896 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:54,897 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 500)]
+2026-04-21 02:10:54,897 [INFO] From cache: False
+2026-04-21 02:10:56,603 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:56,603 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 520)]
+2026-04-21 02:10:56,603 [INFO] From cache: False
+2026-04-21 02:10:58,417 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:10:58,418 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 540)]
+2026-04-21 02:10:58,418 [INFO] From cache: False
+2026-04-21 02:11:00,229 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:00,229 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 560)]
+2026-04-21 02:11:00,230 [INFO] From cache: False
+2026-04-21 02:11:02,155 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:02,156 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 580)]
+2026-04-21 02:11:02,156 [INFO] From cache: False
+2026-04-21 02:11:04,295 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:04,295 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 600)]
+2026-04-21 02:11:04,295 [INFO] From cache: False
+2026-04-21 02:11:06,121 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:06,121 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 620)]
+2026-04-21 02:11:06,121 [INFO] From cache: False
+2026-04-21 02:11:07,793 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:07,794 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 640)]
+2026-04-21 02:11:07,794 [INFO] From cache: False
+2026-04-21 02:11:09,458 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:09,458 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 660)]
+2026-04-21 02:11:09,458 [INFO] From cache: False
+2026-04-21 02:11:11,067 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:11,067 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 680)]
+2026-04-21 02:11:11,067 [INFO] From cache: False
+2026-04-21 02:11:12,975 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:12,975 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 700)]
+2026-04-21 02:11:12,975 [INFO] From cache: False
+2026-04-21 02:11:10,640 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:10,640 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 720)]
+2026-04-21 02:11:10,640 [INFO] From cache: False
+2026-04-21 02:11:12,345 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:12,345 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 740)]
+2026-04-21 02:11:12,345 [INFO] From cache: False
+2026-04-21 02:11:14,369 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:14,369 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 760)]
+2026-04-21 02:11:14,369 [INFO] From cache: False
+2026-04-21 02:11:15,945 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:15,946 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 780)]
+2026-04-21 02:11:15,946 [INFO] From cache: False
+2026-04-21 02:11:17,777 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:17,777 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 800)]
+2026-04-21 02:11:17,777 [INFO] From cache: False
+2026-04-21 02:11:19,674 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:19,674 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 820)]
+2026-04-21 02:11:19,674 [INFO] From cache: False
+2026-04-21 02:11:21,577 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:21,577 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 840)]
+2026-04-21 02:11:21,577 [INFO] From cache: False
+2026-04-21 02:11:23,991 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:23,991 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 860)]
+2026-04-21 02:11:23,991 [INFO] From cache: False
+2026-04-21 02:11:33,865 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:33,865 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 880)]
+2026-04-21 02:11:33,866 [INFO] From cache: False
+2026-04-21 02:11:35,572 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:35,572 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 900)]
+2026-04-21 02:11:35,572 [INFO] From cache: False
+2026-04-21 02:11:37,339 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:37,339 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 920)]
+2026-04-21 02:11:37,339 [INFO] From cache: False
+2026-04-21 02:11:39,060 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:39,061 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 940)]
+2026-04-21 02:11:39,061 [INFO] From cache: False
+2026-04-21 02:11:41,286 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:41,287 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 960)]
+2026-04-21 02:11:41,287 [INFO] From cache: False
+2026-04-21 02:11:43,246 [INFO] https://www.ebi.ac.uk/chembl/api/data/activity.json
+2026-04-21 02:11:43,247 [INFO] [('target_components__target_component_synonyms__component_synonym__iexact', 'ERBB2'), ('target_organism', 'Homo%20sapiens'), ('standard_type', 'IC50'), ('standard_value__gt', 10000), ('limit', 20), ('offset', 980)]
+2026-04-21 02:11:43,247 [INFO] From cache: False
+2026-04-21 02:11:45,610 [INFO]  ERBB2 Inactive process completed, new addition 0.
+2026-04-21 02:11:45,610 [INFO] The automated pipeline task was successfully concluded

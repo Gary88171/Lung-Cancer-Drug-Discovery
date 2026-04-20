@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import logging
 from chembl_webresource_client.new_client import new_client
 import psycopg2
 from sqlalchemy import create_engine
